@@ -6,6 +6,7 @@ This release contains a **pre-built, ready-to-deploy version** of Fleet Manager,
 It is part of our **OpenScaler app deployment video series** and showcases the full app with a polished UI.
 
 ---
+<img width="1613" height="952" alt="image" src="https://github.com/user-attachments/assets/e1202918-72bf-4e01-940b-b19ebdc091ba" />
 
 ### Highlights
 - **Deployment-ready:** start directly with PM2 or your preferred Node.js process manager  
