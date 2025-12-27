@@ -10,10 +10,7 @@ It is part of our **OpenScaler app deployment video series** and showcases the f
 
 ### Highlights
 - **Deployment-ready:** start directly with PM2 or your preferred Node.js process manager  
-- **Dispatcher & C-Suite dashboards:** explore core functionality  
-- **Beautiful login page:** first impression matters  
-- **Images included:** screenshots of the app UI
-
+- **Dispatcher Controle Center & C-Suite dashboards:** explore core functionality  
 ---
 
 ### Quick Start
